@@ -18,7 +18,7 @@ function App() {
                   <li>Mobile No:8122229511</li>
                   <li>Address:uthangarai, krishnagiri`</li>
                 </ul><hr/>
-             </div> <h2><b>ABOUT ME</b></h2>
+             </div> <h2><b>abhout</b></h2>
            <center><p>Passionate and detail oriented <b>web developer </b>with a strong foundation in html technology,recently graduated with a degree in 
                 [BE CSE] from [Anna University],equiped with hands on experience in html. </p>
              </center>
